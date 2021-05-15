@@ -31,8 +31,9 @@ The data set of the project comes from the kaggle website. The data set contains
 
 ### 3.1 Logistic Regression
 
-<img src="images/gridsearch_lr_std.png" width=450>  <img src="images/gridsearch_lr_no_std.png" width=450>
+<img src="images/gridsearch_lr_std.png" width=500>  
 
+<img src="images/gridsearch_lr_no_std.png" width=500>
 
 
 ### 3.2 K-Nearest Neighbors
